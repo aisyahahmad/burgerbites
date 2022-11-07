@@ -1,0 +1,28 @@
+/*
+   Author: Aisyah;
+   Theme: Burger Bites Restaurant Website Admin;
+   Version: 1.0;
+*/
+
+*{
+	margin:0;
+	padding: 0;
+	font-family: sans-serif, poppins;
+}
+
+.wrapper{
+	border: 1px solid #000000;
+    padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.text-center{
+   text-align: center;
+}
+
+/* CSS for footer */
+.footer{
+   background-color: #ff4757;
+   color: white;
+}
